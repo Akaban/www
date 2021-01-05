@@ -1,4 +1,4 @@
-baseURL = "http://www.tichit.net/"
+baseURL = "https://www.tichit.net/"
 languageCode = "en-us"
 title = "Bryce Tichit"
 theme = "hugo-theme-cactus"
