@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Bryce Tichit"
+theme = "hugo-theme-cactus"
