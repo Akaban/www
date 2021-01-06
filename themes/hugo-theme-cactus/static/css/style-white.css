@@ -645,6 +645,47 @@
   #header #nav ul li:last-child a {
     margin-right: 0;
   }
+
+  #header #nav-home {
+    color: #8e7650;
+    letter-spacing: 0.01em;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 0.8rem;
+  }
+  #header #nav-home ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    line-height: 15px;
+  }
+  #header #nav-home ul a {
+    margin-right: 15px;
+    color: #8e7650;
+  }
+  #header #nav-home ul a:hover {
+    background-image: linear-gradient(transparent, transparent 5px, #8e7650 5px, #8e7650);
+    background-position: bottom;
+    background-size: 100% 6px;
+    background-repeat: repeat-x;
+  }
+  #header #nav-home ul li {
+    display: inline-block;
+    margin-right: 15px;
+    border-right: 1px dotted;
+    border-color: #8e7650;
+    vertical-align: middle;
+  }
+  #header #nav-home ul .icon {
+    display: none;
+  }
+  #header #nav-home ul li:last-child {
+    margin-right: 0;
+    border-right: 0;
+  }
+  #header #nav-home ul li:last-child a {
+    margin-right: 0;
+  }
   #header:hover #logo {
     filter: none;
     -webkit-filter: none;

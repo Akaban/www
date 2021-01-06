@@ -11,25 +11,17 @@
     <h1>{{ .Site.Title }}</h1>
   </div>
   </a>
-
-  <p style="color:#8e7650";>
-  <div id="nav">
-    <ul>
-      <li class="icon">
-        <a href="#"><i class="fas fa-bars fa-2x"></i></a>
-      </li>
-      <li><a href="https://drive.google.com/file/d/1XjAle4wFmJ8BBG66kwvmyJ4cSATOLsW-/view?usp=sharing">CV</a></li>
+{{ if .IsHome }}
+   <div id="nav-home">
+     <ul>
+      <li><a href="https://drive.google.com/file/d/2XjAle4wFmJ8BBG66kwvmyJ4cSATOLsW-/view?usp=sharing">CV</a></li>
       <li><a href="https://www.linkedin.com/in/bryce-tichit-a725a6148/">LinkedIn</a></li>
       <li><a href="https://github.com/akaban">Github</a></li>
       <li><a href="https://twitter.com/BryceTichit">Twitter</a></li>
       <li><a href="mailto:tichit.bryce@gmail.com">Contact</a></li>
-    </ul>
+      </ul>
   </div>
-</p>
-  <br/><br/>
-  {{ if .IsHome }}
-  {{ partial "me" }}
-  {{ end }}
+{{ else }}
   <div id="nav">
     <ul>
       <li class="icon">
@@ -40,5 +32,10 @@
       {{ end }}
     </ul>
   </div>
+{{ end }}
+  <br/><br/>
+  {{ if .IsHome }}
+  {{ partial "me" }}
+  {{ end }}
 </header>
 

@@ -2,3 +2,14 @@ baseURL = "https://www.tichit.net/"
 languageCode = "en-us"
 title = "Bryce Tichit"
 theme = "hugo-theme-cactus"
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
