@@ -652,6 +652,7 @@
     font-weight: 200;
     font-style: normal;
     font-size: 0.8rem;
+    padding-top: 8px;
   }
   #header #nav-home ul {
     margin: 0;
