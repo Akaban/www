@@ -50,7 +50,9 @@ I’m just starting out this new life, and I can already feel the changes. I can
 
 I find it very funny that I come to such a state of mind, I was nowhere near this 6 months ago. But at one point you just realize that we live in an outstanding world and that it is your duty to make the most of it, you need to move forward accomplishing your dreams because no one is going to accomplish them in your place. You are the only captain of your ship, and you need to choose where to sail. When you become conscious of all of this everything becomes obvious. Truly wonderful.
 
+PS: I'm attaching a song to this blog post,
 
+{{< youtube id="nZS3GDcFjFU" title="A New Hugo Site in Under Two Minutes" >}}
 
 
 
