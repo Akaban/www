@@ -1,5 +1,5 @@
 ---
-title: "Projet Sunflower"
+title: "Project Sunflower"
 date: 2021-01-08T20:53:14+01:00
 draft: false
 ---
