@@ -1,8 +1,8 @@
-baseURL = "https://www.tichit.net/"
+baseURL = "https://tichit.net/"
 languageCode = "en-us"
 title = "Bryce Tichit"
 theme = "hugo-theme-cactus"
-googleAnalytics = "G-FWJ8WQKHP9"
+googleAnalytics = "G-PML7XB9NRW"
 googleAnalyticsAsync = false
 
 # Main menu which appears below site header.
