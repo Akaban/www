@@ -41,7 +41,7 @@ Every project I’m going to build will be just planting a sunflower seed, some 
 
 I’m not saying this project is going to be easy, the road is going to be hard, very hard. But at the same time I know that this experience is going to be amazing. I know that I’m going to meet new inspiring people, that I’m going to experience setbacks and failures and therefore learn new things and finally grow as a person.
 
-I have of course some financial objectives about this project, but I’m not going to talk about this here. Instead, what I want to build is a sustainable lifestyle, leading to habits of personal growth and a life I’m passionate about. 
+I have some financial objectives about this project, but I’m not going to talk about this here. Instead, what I want to build is a sustainable lifestyle, leading to habits of personal growth and a life I’m passionate about. 
 Not meeting my financial objectives won’t be a problem, because if things are moving forward the way I like, I’m just going to find a way to fund my project.
 
 As I’m going to lower my expenses to student level, this is not going to be hard to fund.
