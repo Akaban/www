@@ -20,7 +20,7 @@ But at one point, everything changed, and I wasn’t enjoying it anymore. The il
 
 At that point, I was really depressed and I felt that I really had to change something. So I left my job behind and I moved back to my parent’s house. I needed at least three months to reflect  in my hammock, before planning what to do next. 
 
-By June, I was feeling alright, a bit lost in my life - but alright overall. I asked myself the essential question: what can I do? I decided to take six months off to find an answer to this question. I really had a lot of fun all this time! I met a lot of amazing people ,which also opened my mind due to their different lifestyles. I really found myself with all the new experiences I made and with all the time I had to think about my life.
+By June, I was feeling alright, a bit lost in my life - but alright overall. I asked myself the essential question: what can I do? I decided to take six months off to find an answer to this question. I really had a lot of fun all this time! I met a lot of amazing people, which also opened my mind due to their different lifestyles. I really found myself with all the new experiences I made and with all the time I had to think about my life.
 
 So here we are in January 2021 and I have yet to announce that I came up with a plan.
 
@@ -41,8 +41,8 @@ Every project I’m going to build will be just planting a sunflower seed, some 
 
 I’m not saying this project is going to be easy, the road is going to be hard, very hard. But at the same time I know that this experience is going to be amazing. I know that I’m going to meet new inspiring people, that I’m going to experience setbacks and failures and therefore learn new things and finally grow as a person.
 
-Despite my optimism, I have less faith in some financial objectives of the project, but I’m not going to talk about this here. Instead, what I want to build is a sustainable lifestyle, leading to habits of personal growth and a life I’m passionate about. 
-Not meeting my financial objective won’t be a problem, because if things are moving forward the way I like, I’m just going to find a way to fund my project.
+I have of course some financial objectives about this project, but I’m not going to talk about this here. Instead, what I want to build is a sustainable lifestyle, leading to habits of personal growth and a life I’m passionate about. 
+Not meeting my financial objectives won’t be a problem, because if things are moving forward the way I like, I’m just going to find a way to fund my project.
 
 As I’m going to lower my expenses to student level, this is not going to be hard to fund.
 
@@ -50,7 +50,8 @@ I’m just starting out this new life, and I can already feel the changes. I can
 
 I find it very funny that I’ve arrived at such a state of mind. I was nowhere near this six months ago. But at one point, you just realize that we live in an outstanding world and that it is your duty to make the most of it. You need to move forward accomplishing your dreams, because no one is going to accomplish them in your place. You are the only captain of your ship, and you need to choose where to sail. When you become conscious of all of this, everything becomes obvious. Truly wonderful.
 
-**Huge thanks** to my amazing reviewers: Adrien Pavao, Éléonore Bartenlian, Nathan Hastie, Kevin D, Malik Kazi-Aoual, Edgar Fournival and Leila Rougeot
+**Huge thanks** to my amazing reviewers: Adrien Pavao, Éléonore Bartenlian, Nathan Hastie, Julien Bienvenu, Kevin D, Malik Kazi-Aoual, Edgar Fournival and Leila Rougeot
+
 
 
 PS: I'm attaching a song to this blog post,
