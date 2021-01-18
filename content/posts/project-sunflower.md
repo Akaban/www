@@ -14,7 +14,7 @@ My job was pretty nice, but you’re never safe working as an *employee*. I thin
 
 But my job worsening was not the only cause of this tornado; it was rather the enabler. All of this revealed a bigger problem with me: I didn’t like my life. I moved to Paris for this job, like most university graduates, and I believed that I needed to find a job straight away after college. It felt like *the thing to do*, so I changed my whole life to fit around it.
 
-Despite my eventual resentment of it, this job was actually an interesting opportunity. I was able to meet amazing people and have a lot of fun - all while making a real impact on the world. And I since was getting paid well for this, what more could I ask for?
+Despite my eventual resentment of it, this job was actually an interesting opportunity. I was able to meet amazing people and have a lot of fun - all while making a real impact on the world. And since I was getting paid well for this, what more could I ask for?
 
 But at one point, everything changed, and I wasn’t enjoying it anymore. The illusion was unveiled; my lifestyle was fucked up. I had a 2 hour commute everyday, never went out nor enjoyed my life, besides work, and was hanging around with my close university friends less and less.
 
