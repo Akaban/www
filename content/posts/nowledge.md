@@ -31,7 +31,7 @@ I have a lot of digital books, especially books that I want to learn from. For t
 
 The problem is that I am a lazy and messy person; I looked at solutions to help me easily achieve that and I could not find something that had a minimalistic interface, was really simple to use and ergonomic enough to highlight PDF documents. Since I could not find what I wanted, I decided to build it myself.
 
-As of now, _NowLedge_ answers to 80% of my demands: I can now read a book that I enjoy learning from, take efficient notes as I read it , access them very easily in a nice grid formatted page and download my “understanding” of the book in a matter of minutes. This works as I actually have all of the information that I want to recall from the book in that grid.
+As of now, _NowLedge_ answers to 80% of my demands: I can now read a book that I enjoy learning from, take efficient notes as I read it, access them very easily in a nice grid formatted page and download my “understanding” of the book in a matter of minutes. This works as I actually have all of the information that I want to recall from the book in that grid.
 
 What I find funny is that now, when I read a book, my final goal is just to build this grid, I don’t care about reading all of the book. I optimize my time and try to find directly the information I want to save it in my highlights grid. I personally find this approach really efficient to learn from any books.
 
@@ -42,6 +42,8 @@ I decided to release _NowLedge_ today as a MVP, it’s not really finished but I
 If you too want to take highlights efficiently from your books, _NowLedge_ may be a fit for you. You can give it a try [here](https://nowledge.xyz).
 
 More projects are on my to-do list, subscribe to my blog if you want to get informed when I release a new blog post!
+
+**Huge thanks** to my amazing reviewers: Adrien Pavao and Éléonore Bartenlian
 
 
 
