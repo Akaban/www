@@ -1,7 +1,10 @@
 ---
 title: "#1: NowLedge"
-date: 2021-04-28T14:35:41+01:00
+date: 2021-05-12T9:00:41+01:00
 draft: false
+categories:
+    - Essay
+    - Project Sunflower
 ---
 ## 1 - Introduction
 
