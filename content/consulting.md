@@ -6,7 +6,7 @@ draft: false
 
 I am a Software Engineer and Data Scientist with experience working in a now unicorn company. I am working right now on projects that I am monetizing as a Indie Hacker and I'm now available for consulting work.
 
-I have experience working on a plethora of technologies, for example I'm completely fluent in Networks, Docker, Linux, Python, Machine Learning, Data Analytics and Javascript. I am as well very keen on business, as a Data Scientist at [ManOMano](https://www.manomano.fr) I had the responsibility to identify myself the best next leverage for the company.
+I have experience working on a plethora of technologies, for example I'm completely fluent in Networks, Docker, Linux, Python, Machine Learning, Data Analytics and Javascript. I am as well very keen on business, as a Data Scientist at [ManoMano](https://www.manomano.fr) I had the responsibility to identify myself the best next leverage for the company, by finding and executing the good project we coud yield millions for the company.
 
 This means that I'm able to talk directly with the stakeholders working directly on business problematics, come up with a pragmatic solution and solve it along with the business stake holders. I am open-minded and like to think out of the box, I am 100% independant on any developpment/technological task I could be given.
 
@@ -30,8 +30,8 @@ My non-exhaustive value proposition would be the following,
 
 - Full-stack webdev: 
 	
-	I am a fluent in Python and use it as a daily basis to build back-ends for my projects, I am as well a JavaScript developper and am completely able to operate on any codebases. I learned JavaScript this year and built a product called NowLedge, an app used to efficiently learn from any digital books or research paper. Check it out at https://nowledge.xyz
-
+	I am a fluent in Python and use it as a daily basis to build back-ends for my projects, I am as well a JavaScript developper and am completely able to operate on any codebases. I learned JavaScript this year and built a product called NowLedge, an app used to efficiently learn from any digital books or research paper. Check it out at https://nowledge.xyz.
+	Even though I worked as a Data Scientist in my previous company I've been a Software Engineer for more than 7 years, I've built a lot of projects in University mainly because I was just passioned about it. As well I know and used, C, C++, Java, OCaml, Ruby, Haskell, Julia and LISP.
 
 Most of the time my value proposition is a combination of these 4, if you feel like me and you could be a match don't hesitate to drop me a mail and we will setup a call to understand and frame your problematics.
 
