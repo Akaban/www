@@ -12,7 +12,7 @@ My non-exhaustive value proposition would be the following,
 
 - #### Data Analysis: 
 	
-	I would bring you useful insights from your data that will help you understand your situation better. I have experience of a lot of business problematics from my previous work in a French unicorn start-up and will provide you with a very clear and useful reports.
+	I would bring you useful insights from your data that will help you understand your situation better. I have experience with a lot of business problematics from my previous work as a Data Scientist in a French unicorn start-up and will provide you with a very clear and useful reports.
 
 - #### Data Engineering: 
 	
@@ -20,11 +20,11 @@ My non-exhaustive value proposition would be the following,
 
 - #### Data Science: 
 	
-	I would combine my Data Analysis skills along with my Data Engineering skills to build pragmatic and powerful solution using state-of-the-art mathematicals and AI tools. The output would be an algorithm aimed at solving a very specific problem for your business using data. I have experience of building world-class Machine Learning pipeline on many problematics. If your company has a lot of historical data you may be unaware of its potentiel, contact me so I can help you extract the most value out of your data.
+	I would combine my Data Analysis skills along with my Data Engineering skills to build pragmatic and powerful solution using state-of-the-art mathematicals and AI tools. The output would be an algorithm aimed at solving a very specific problem for your business using data. I have experience of building world-class Machine Learning pipeline on many problematics. If your company has a lot of historical data you may be unaware of its potential, contact me so I can help you extract the most value out of your data.
 
 - #### Full-stack webdev: 
 	
-	I am a fluent in Python and use it as a daily basis to build back-ends for my projects, I am as well a JavaScript developper and am completely able to operate on any codebases. I learned JavaScript this year and built a product called NowLedge, an app used to efficiently learn from any digital books or research paper. Check it out at https://nowledge.xyz.
+	I am fluent in Python and use it as a daily basis to build back-ends for my projects, I am as well a JavaScript developper and am completely able to operate on any codebases. I learned JavaScript this year and built a product called NowLedge, an app used to efficiently learn from any digital books or research paper. Check it out at https://nowledge.xyz.
 	Even though I worked as a Data Scientist in my previous company I've been a Software Engineer for more than 7 years, I've built a lot of projects in University mainly because I was just passioned about it. As well I know and used, C, C++, Java, OCaml, Ruby, Haskell, Julia and LISP.
 
 Most of the time my value proposition is a combination of these 4, if you feel like me and you could be a match don't hesitate to drop me a mail and we will setup a call to understand and frame your problematics.
