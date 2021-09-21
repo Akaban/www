@@ -46,6 +46,6 @@ I can adapt really fast to any technologies, process, or workflow that you would
 
 Don't hesitate to check out my Curriculum Vitae [here](https://drive.google.com/file/d/1XjAle4wFmJ8BBG66kwvmyJ4cSATOLsW-/view?usp=sharing). More social media links are available on the top of this page.
 
-Interested? Drop me an [email](mailto:tichit.bryce@gmail.com) and we'll arrange a call! I'm looking forward to our collaboration.
+Interested? Drop me an [email](mailto:bryce@tichit.net) and we'll arrange a call! I'm looking forward to our collaboration.
 
 Bryce Tichit
