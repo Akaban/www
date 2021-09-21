@@ -25,7 +25,7 @@ My non-exhaustive value proposition would be the following,
 - #### Full-stack webdev: 
 	
 	I am fluent in Python and use it as a daily basis to build back-ends for my projects, I am as well a JavaScript developper and am completely able to operate on any codebases. I learned JavaScript this year and built a product called NowLedge, an app used to efficiently learn from any digital books or research paper. Check it out at https://nowledge.xyz.
-	Even though I worked as a Data Scientist in my previous company I've been a Software Engineer for more than 7 years, I've built a lot of projects in University mainly because I was just passioned about it. As well I know and used, C, C++, Java, OCaml, Ruby, Haskell, Julia and LISP.
+	Even though I worked as a Data Scientist in my previous company I've been a Software Engineer for more than 5 years, I've built a lot of projects in University mainly because I was just passioned about it. As well I know and used, C, C++, Java, OCaml, Ruby, Haskell, Julia and LISP.
 
 Most of the time my value proposition is a combination of these 4, if you feel like me and you could be a match don't hesitate to drop me a mail and we will setup a call to understand and frame your problematics.
 
